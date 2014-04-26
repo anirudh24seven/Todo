@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8F47791F190C2E2A00C632E4 /* ANIToDoItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F47791E190C2E2A00C632E4 /* ANIToDoItem.m */; };
 		8F6AEC9E1908017F0036E81C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F6AEC9D1908017F0036E81C /* Main.storyboard */; };
 		8FBF3B4F190966C4009FD8AD /* ANIAddToDoItemViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FBF3B4E190966C4009FD8AD /* ANIAddToDoItemViewController.m */; };
 		8FBF3B521909679A009FD8AD /* ANIToDoListTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FBF3B511909679A009FD8AD /* ANIToDoListTableViewController.m */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8F47791D190C2E2A00C632E4 /* ANIToDoItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ANIToDoItem.h; sourceTree = "<group>"; };
+		8F47791E190C2E2A00C632E4 /* ANIToDoItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ANIToDoItem.m; sourceTree = "<group>"; };
 		8F6AEC9D1908017F0036E81C /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		8FBF3B4D190966C4009FD8AD /* ANIAddToDoItemViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ANIAddToDoItemViewController.h; sourceTree = "<group>"; };
 		8FBF3B4E190966C4009FD8AD /* ANIAddToDoItemViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ANIAddToDoItemViewController.m; sourceTree = "<group>"; };
@@ -120,6 +123,8 @@
 				8FDDAE5E19063E8100421167 /* ANIAppDelegate.h */,
 				8FDDAE5F19063E8100421167 /* ANIAppDelegate.m */,
 				8F6AEC9D1908017F0036E81C /* Main.storyboard */,
+				8F47791D190C2E2A00C632E4 /* ANIToDoItem.h */,
+				8F47791E190C2E2A00C632E4 /* ANIToDoItem.m */,
 				8FBF3B501909679A009FD8AD /* ANIToDoListTableViewController.h */,
 				8FBF3B511909679A009FD8AD /* ANIToDoListTableViewController.m */,
 				8FDDAE6119063E8100421167 /* Images.xcassets */,
@@ -254,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8F47791F190C2E2A00C632E4 /* ANIToDoItem.m in Sources */,
 				8FBF3B521909679A009FD8AD /* ANIToDoListTableViewController.m in Sources */,
 				8FDDAE5C19063E8100421167 /* main.m in Sources */,
 				8FDDAE6019063E8100421167 /* ANIAppDelegate.m in Sources */,
